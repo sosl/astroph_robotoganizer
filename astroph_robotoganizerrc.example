@@ -1,0 +1,8 @@
+[User]
+Name: Organizer
+
+[Wiki]
+BaseURL: http://your.wikihost.com/wiki/index.php
+LoginAndReturnExt: ?anyextra=arguments&topass=towikibaseurl&inorder=tologin
+PaperListExt: ?extras=togetlistofpapers
+FormatEXT: ?extras=togetformatinfo
